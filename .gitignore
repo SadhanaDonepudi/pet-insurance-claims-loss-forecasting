@@ -1,0 +1,14 @@
+# Build artifacts (regenerate with `python -m src.pipeline`)
+*.sqlite
+*.db
+outputs/data/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+# Test / tooling
+.pytest_cache/
+.coverage
+.DS_Store

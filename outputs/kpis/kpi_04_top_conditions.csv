@@ -1,0 +1,13 @@
+condition,n_claims,pct_of_claims,avg_severity,total_incurred,pct_of_losses
+Cruciate Ligament Tear,12485,6.24,2469.68,30833979.87,21.86
+Hip Dysplasia,10849,5.42,2127.65,23082827.35,16.36
+Dental Disease,23894,11.95,704.38,16830525.43,11.93
+Gastroenteritis,29879,14.94,419.64,12538306.5,8.89
+Diabetes,11503,5.75,929.56,10692758.78,7.58
+Arthritis,16344,8.17,597.26,9761607.78,6.92
+Skin Allergies,25303,12.65,377.29,9546622.76,6.77
+Laceration,14153,7.08,610.46,8639828.28,6.12
+Urinary Tract Infection,14597,7.3,440.73,6433340.0,4.56
+Ear Infection,17949,8.97,306.41,5499800.85,3.9
+Kennel Cough,13899,6.95,334.7,4652064.6,3.3
+Conjunctivitis,9145,4.57,280.29,2563247.62,1.82
